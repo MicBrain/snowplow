@@ -10,6 +10,7 @@ Snowplow is an enterprise-strength marketing and product analytics platform. It 
 3. Lets you leverage the biggest range of tools to analyse that data incl. big data toolset (e.g. Hive, Pig, Mahout) via EMR or more traditional tools e.g. Tableau, R, Chartio to analyse that behavioural data
 
 To download this package please click on "Clone in Desktop" and unpack it.
+
 **To find out more, please check out the [Snowplow website] [website] and the [Snowplow wiki] [wiki].**
 
 ## Snowplow technology 101
