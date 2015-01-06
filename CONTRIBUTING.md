@@ -1,8 +1,6 @@
 # Contributing to Snowplow
 
-So you want to contribute to Snowplow? Fantastic! This version has been contributed by [Rafayel Mkrtchyan] [website].
-
-If you are interested in contriHere's a brief overview on how best to do so.
+So you want to contribute to Snowplow? Fantastic! This version has been contributed by [Rafayel Mkrtchyan] [website]. If you are interested in contriHere's a brief overview on how best to do so.
 
 ## Support request?
 
@@ -48,3 +46,5 @@ you're doing, such as "feature/storm-etl"
 Please note - if you want to change multiple things that don't depend on each
 other, make sure you check the master branch back out before making more
 changes - that way we can take in each change seperately.
+
+[website]: http://www.linkedin.com/in/rafayelmkrtchyan
