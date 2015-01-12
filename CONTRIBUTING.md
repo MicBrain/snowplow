@@ -1,7 +1,7 @@
 # Contributing to Snowplow
 
 So you want to contribute to Snowplow? Fantastic! This version has been contributed by [Rafayel Mkrtchyan] [website]. If you are interested in contriHere's a brief overview on how best to do so.
-
+ 
 ## Support request?
 
 If you are having trouble setting up or running Snowplow, then the best place to get help is on the [SnowPlow Google Group](https://groups.google.com/forum/#!forum/snowplow-user) (aka `snowplow-user`).
