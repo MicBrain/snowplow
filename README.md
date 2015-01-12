@@ -13,7 +13,7 @@ To download this package please click on "Clone in Desktop" and unpack it.
 
 **To find out more, please check out the [Snowplow website] [website] and the [Snowplow wiki] [wiki].**
 
-## Snowplow technology 101
+## Snowplow technology 101 
 
 The repository structure follows the conceptual architecture of Snowplow, which consists of five loosely coupled stages:
 
