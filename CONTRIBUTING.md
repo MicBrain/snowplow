@@ -31,7 +31,7 @@ and closed issues first.
 * Code should follow our accepted style guides (coming soon)
 
 Look at existing code to get a good feel for the patterns we use.
-
+ 
 ## Using Git appropriately
 
 1. [Fork the repository](https://github.com/snowplow/snowplow/fork_select) to
