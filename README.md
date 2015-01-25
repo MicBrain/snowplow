@@ -90,7 +90,6 @@ limitations under the License.
 [setup-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/setup.png
 [roadmap-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
 [contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
-
 [techdocs]: https://github.com/snowplow/snowplow/wiki/SnowPlow-technical-documentation
 [setup]: https://github.com/snowplow/snowplow/wiki/Setting-up-SnowPlow
 [roadmap]: https://github.com/snowplow/snowplow/wiki/Product-roadmap
